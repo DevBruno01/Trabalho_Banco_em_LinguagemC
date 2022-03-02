@@ -10,7 +10,6 @@ Este projeto foi feito para apresentação da disciplina de linguagem de Program
 
 ## Layout Programa Principal
 ![Web 1](https://github.com/DevBruno01/Assets_Banco/blob/main/Tela_inicial.png)
-
 # Autor
 
 Bruno Brocanelli
