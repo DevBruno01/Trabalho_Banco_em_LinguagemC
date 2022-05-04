@@ -9,7 +9,7 @@ Para o armazenamento à aplicação trabalha com arquivos da linguagem c, ou sej
 Este projeto foi feito para apresentação da disciplina de linguagem de Programação para obtenção de nota.
 
 ## Layout Programa Principal
-![Web 1](https://github.com/DevBruno01/Assets_Banco/blob/main/Tela_inicial.png)
+![Web 1](https://github.com/DevBruno01/Assets/blob/main/Tela_inicial.png)
 # Autor
 
 Bruno Brocanelli
